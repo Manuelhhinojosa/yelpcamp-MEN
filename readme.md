@@ -13,7 +13,7 @@
 
 ---
 
-### 1. Title Of The Game :
+### 1. Title Of The App :
 
 Yelpcamp.
 
@@ -78,6 +78,6 @@ Yelpcamp is a Yelp-like app designed to share & review camground sites around th
 
 ### 4. Getting Started :
 
-Click [here]https://mh-yelpcamp.herokuapp.com) to checkout the app.
+Click [here](https://yelpcamp-murex-ten.vercel.app/home) to checkout the app.
 
 ---

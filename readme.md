@@ -19,9 +19,9 @@ Yelpcamp.
 
 ---
 
-### 1. Quik Intro :
+### 1. Intro :
 
-Yelpcamp is a Yelp-like app designed to share & review camground sites around the world
+This is a CRUD application built using MongoDB, Mongoose, MongoDB Atlas, Node.js, Express, and map services. The app allows users to create, read, update, and delete posts and comments. Each user has a profile where they can manage their posts and interact with other users' comments. The integration of map services provides additional functionality and enhances the user experience.
 
 ---
 
